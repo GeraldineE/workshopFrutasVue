@@ -1,2 +1,0 @@
-# workshopFrutasVue
-Created with CodeSandbox
